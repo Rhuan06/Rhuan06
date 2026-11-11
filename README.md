@@ -180,21 +180,49 @@ SYSTEM: CONTINUOUS_LEARNING = TRUE
 
 ---
 
-## `07 // CONTRIBUTION ACTIVITY`
+## `07 // DEVELOPMENT ACTIVITY`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rhuan06&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Rhuan06)
+### ⚡ MY DEVELOPMENT JOURNEY
+
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/BACKEND-PYTHON-8B5CF6?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FRONTEND-NEXT.JS-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black" />
+
+<br/><br/>
+
+| AREA | CURRENT FOCUS |
+|:---:|:---|
+| ⚙️ Backend | Python • FastAPI • SQLAlchemy |
+| 🎨 Frontend | Next.js • React • TypeScript |
+| 🗄️ Database | PostgreSQL • SQLite |
+| 🔧 Tools | Git • GitHub • VS Code |
+| 🚀 Learning | Software Architecture • Clean Code |
 
 </div>
 
 ---
 
-## `08 // GITHUB TROPHIES`
+## `08 // FEATURED REPOSITORIES`
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy-kannan.vercel.app/?username=Rhuan06&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/Rhuan06/flow-crm-frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan06&repo=flow-crm-frontend&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Rhuan06/flow-crm-backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan06&repo=flow-crm-backend&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Rhuan06/gestao-produtos-tkinter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan06&repo=gestao-produtos-tkinter&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Rhuan06/sistema-cafeteria">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan06&repo=sistema-cafeteria&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
