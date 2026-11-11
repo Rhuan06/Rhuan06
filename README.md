@@ -1,64 +1,125 @@
-# Olá! Eu sou Rhuan Silva 👋
+ <div align="center">
 
-### Desenvolvedor Full Stack em formação | Estudante de Análise e Desenvolvimento de Sistemas
+# 👨‍💻 Rhuan Silva
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento de software, construção de aplicações web e soluções tecnológicas.
+### `Desenvolvedor Full Stack em formação`
 
-Atualmente, venho desenvolvendo projetos práticos para aprimorar meus conhecimentos em desenvolvimento Full Stack, APIs RESTful, bancos de dados e arquitetura de aplicações.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Construindo+solu%C3%A7%C3%B5es+com+tecnologia;Desenvolvimento+Full+Stack;Python+%7C+FastAPI+%7C+Next.js;Transformando+ideias+em+c%C3%B3digo)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rhuan06-181717?style=for-the-badge&logo=github)](https://github.com/Rhuan06)
+
+</div>
 
 ---
+
+## 🧑‍💻 Sobre mim
+
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolvimento de software, arquitetura de aplicações e infraestrutura de TI.
+
+Tenho experiência prática desenvolvendo aplicações Full Stack, APIs RESTful, interfaces web e trabalhando com suporte técnico e Help Desk.
+
+Atualmente, meu foco está em aprimorar minhas habilidades em desenvolvimento backend e frontend, criando soluções organizadas, funcionais e escaláveis.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Rhuan Silva"
+        self.role = "Full Stack Developer in training"
+        self.education = "Análise e Desenvolvimento de Sistemas"
+        self.interests = [
+            "Backend Development",
+            "Frontend Development",
+            "Software Engineering",
+            "IT Infrastructure"
+        ]
+
+    def say_hi(self):
+        print("Bem-vindo ao meu GitHub! 🚀")
+
+
+me = Developer()
+me.say_hi()
+```
+
+## ⚙️ Tecnologias e ferramentas
+
+### 💻 Desenvolvimento Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart" />
+</p>
+
+### 🐍 Desenvolvimento Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cs,dotnet,java" />
+</p>
+
+### 🗄️ Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+</p>
+
+### 🛠️ Ferramentas e ambiente de desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,bash" />
+</p>
 
 ## 🚀 Projeto em destaque
 
-### FlowCRM — Sistema de Gestão de Clientes e Vendas
+### FlowCRM — Gestão de Clientes e Vendas
 
 Aplicação Full Stack desenvolvida com arquitetura separada entre frontend e backend.
 
-- **Frontend:** Next.js, React, TypeScript e Tailwind CSS.
-- **Backend:** Python, FastAPI e SQLAlchemy.
-- **Banco de dados:** PostgreSQL.
-- **Recursos:** autenticação JWT, gestão de clientes, pipeline Kanban e dashboard comercial.
+| Camada | Tecnologias |
+|---|---|
+| Frontend | Next.js, React, TypeScript e Tailwind CSS |
+| Backend | Python, FastAPI e SQLAlchemy |
+| Banco de dados | PostgreSQL |
+| Segurança | Autenticação JWT |
 
-[![Frontend](https://img.shields.io/badge/Frontend-Next.js-black?logo=next.js)](https://github.com/Rhuan06)
-[![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi)](https://github.com/Rhuan06)
+**Principais recursos:**
+- Autenticação de usuários.
+- Gestão de clientes.
+- Pipeline de vendas com Kanban.
+- Dashboard de indicadores comerciais.
+- Exportação de relatórios CSV.
 
----
+## 📊 Estatísticas do GitHub
 
-## 💻 Tecnologias e ferramentas
+<div align="center">
 
-### Desenvolvimento
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rhuan06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuan06&layout=compact&theme=tokyonight&hide_border=true" />
 
-### Banco de dados e ferramentas
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhuan06&theme=tokyonight&hide_border=true" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
+</div>
 
 ## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas**
+🎓 **Análise e Desenvolvimento de Sistemas**
 
 Em andamento.
 
-## 📫 Contato
+## 💼 Outras experiências
 
-- GitHub: [@Rhuan06](https://github.com/Rhuan06)
-- LinkedIn: [Adicionar perfil do LinkedIn](https://www.linkedin.com/)
+- Suporte técnico e Help Desk.
+- Manutenção preventiva e corretiva de computadores.
+- Instalação e configuração de sistemas operacionais.
+- Suporte a usuários e infraestrutura de TI.
 
 ---
 
-*Buscando aprender, desenvolver e transformar ideias em soluções através da tecnologia.*
+<div align="center">
+
+### 💡 Sempre aprendendo. Sempre construindo.
+
+**Obrigado pela visita!** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rhuan06&color=38BDF8&style=flat-square&label=Visualizações+do+perfil)
+
+</div>
