@@ -206,20 +206,36 @@ SYSTEM: CONTINUOUS_LEARNING = TRUE
 
 <div align="center">
 
+### 🔷 FLOWCRM
+
+**Sistema Full Stack de gestão de clientes e oportunidades comerciais.**
+
 <a href="https://github.com/Rhuan06/flow-crm-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan06&repo=flow-crm-frontend&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/FRONTEND-Next.js-38BDF8?style=for-the-badge&logo=next.js&logoColor=white" />
 </a>
 
 <a href="https://github.com/Rhuan06/flow-crm-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan06&repo=flow-crm-backend&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/BACKEND-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </a>
+
+---
+
+### 📦 GESTÃO DE PRODUTOS
+
+Aplicação de gerenciamento de produtos com Python e Tkinter.
 
 <a href="https://github.com/Rhuan06/gestao-produtos-tkinter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan06&repo=gestao-produtos-tkinter&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+---
+
+### ☕ SISTEMA DE CAFETERIA
+
+Projeto de sistema para gerenciamento de uma cafeteria.
+
 <a href="https://github.com/Rhuan06/sistema-cafeteria">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan06&repo=sistema-cafeteria&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
