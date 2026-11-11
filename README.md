@@ -143,7 +143,6 @@ Projeto de sistema para gerenciamento de uma cafeteria.
 <a href="https://github.com/Rhuan06/sistema-cafeteria">
   <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
----
 
 ## `05 // CURRENT OBJECTIVES`
 
