@@ -1,6 +1,6 @@
  <div align="center">
 
-<!-- BANNER PRINCIPAL -->
+<!-- SYSTEM BOOT BANNER -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090f,50:101b35,100:30145c&text=RHUAN%20SILVA&fontColor=38BDF8&fontSize=55&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=60&descSize=15&animation=fadeIn" />
 
@@ -23,6 +23,7 @@ name: Rhuan Silva
 role: Desenvolvedor Full Stack em formação
 education: Análise e Desenvolvimento de Sistemas
 location: Brasil
+
 interests:
   - Desenvolvimento de Software
   - Backend e APIs REST
@@ -107,11 +108,12 @@ Meu objetivo é continuar evoluindo como desenvolvedor, explorando novas tecnolo
 | Segurança | Autenticação JWT |
 
 **Principais funcionalidades:**
+
 - Autenticação de usuários.
 - Gerenciamento de clientes.
 - Pipeline comercial com Kanban.
 - Dashboard com indicadores.
-- Atualização e gerenciamento de oportunidades.
+- Gerenciamento de oportunidades.
 - Exportação de dados em CSV.
 
 ### OUTROS PROJETOS
@@ -147,8 +149,6 @@ Projeto de sistema para gerenciamento de uma cafeteria.
 
 ## `05 // CURRENT OBJECTIVES`
 
-<div align="left">
-
 ```bash
 ┌──[ RHUAN@DEVELOPER ]─[ ~/objectives ]
 │
@@ -158,11 +158,9 @@ Projeto de sistema para gerenciamento de uma cafeteria.
 ├── [→] Aprofundar conhecimentos em arquitetura de software
 ├── [→] Evoluir em boas práticas e qualidade de código
 └── [→] Desenvolver projetos cada vez mais robustos
-     
+
 SYSTEM: CONTINUOUS_LEARNING = TRUE
 ```
-
-</div>
 
 ---
 
@@ -186,7 +184,7 @@ SYSTEM: CONTINUOUS_LEARNING = TRUE
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rhuan06&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rhuan06&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Rhuan06)
 
 </div>
 
@@ -196,7 +194,7 @@ SYSTEM: CONTINUOUS_LEARNING = TRUE
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Rhuan06&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1" />
+[![GitHub Trophies](https://github-profile-trophy-kannan.vercel.app/?username=Rhuan06&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -219,8 +217,6 @@ SYSTEM: CONTINUOUS_LEARNING = TRUE
 <a href="https://github.com/Rhuan06">
   <img src="https://img.shields.io/badge/GitHub-Rhuan06-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<!-- Adicione seu LinkedIn quando quiser disponibilizar o endereço público do perfil. -->
 
 </div>
 
