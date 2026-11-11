@@ -2,9 +2,9 @@
 
 # 👨‍💻 Rhuan Silva
 
-### `Desenvolvedor Full Stack em formação`
+### Desenvolvedor Full Stack | Análise e Desenvolvimento de Sistemas
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Construindo+solu%C3%A7%C3%B5es+com+tecnologia;Desenvolvimento+Full+Stack;Python+%7C+FastAPI+%7C+Next.js;Transformando+ideias+em+c%C3%B3digo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvimento+Full+Stack;Python+%7C+FastAPI+%7C+Next.js;Construindo+solu%C3%A7%C3%B5es+com+tecnologia)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rhuan06-181717?style=for-the-badge&logo=github)](https://github.com/Rhuan06)
 
@@ -14,62 +14,57 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolvimento de software, arquitetura de aplicações e infraestrutura de TI.
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em desenvolvimento de software, arquitetura de aplicações e infraestrutura de TI.
 
-Tenho experiência prática desenvolvendo aplicações Full Stack, APIs RESTful, interfaces web e trabalhando com suporte técnico e Help Desk.
+Tenho experiência prática com desenvolvimento Full Stack, construção de APIs RESTful, interfaces web, bancos de dados e suporte técnico.
 
-Atualmente, meu foco está em aprimorar minhas habilidades em desenvolvimento backend e frontend, criando soluções organizadas, funcionais e escaláveis.
+Meu objetivo é evoluir continuamente como desenvolvedor, aplicando boas práticas de programação e construindo soluções que resolvam problemas reais.
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Rhuan Silva"
-        self.role = "Full Stack Developer in training"
         self.education = "Análise e Desenvolvimento de Sistemas"
-        self.interests = [
-            "Backend Development",
-            "Frontend Development",
-            "Software Engineering",
-            "IT Infrastructure"
-        ]
+        self.focus = ["Backend", "Frontend", "Software Development"]
+        self.tools = ["Python", "FastAPI", "Next.js", "TypeScript"]
 
-    def say_hi(self):
-        print("Bem-vindo ao meu GitHub! 🚀")
+    def introduce(self):
+        return "Transformando ideias em soluções através da tecnologia."
 
 
-me = Developer()
-me.say_hi()
+developer = Developer()
+print(developer.introduce())
 ```
 
 ## ⚙️ Tecnologias e ferramentas
 
-### 💻 Desenvolvimento Frontend
+**Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### 🐍 Desenvolvimento Backend
+**Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,cs,dotnet,java" />
 </p>
 
-### 🗄️ Banco de dados
+**Banco de dados**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 </p>
 
-### 🛠️ Ferramentas e ambiente de desenvolvimento
+**Outras tecnologias e ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,visualstudio,linux,bash" />
 </p>
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
-### FlowCRM — Gestão de Clientes e Vendas
+### 🔷 FlowCRM — Sistema de Gestão de Clientes e Vendas
 
 Aplicação Full Stack desenvolvida com arquitetura separada entre frontend e backend.
 
@@ -78,14 +73,17 @@ Aplicação Full Stack desenvolvida com arquitetura separada entre frontend e ba
 | Frontend | Next.js, React, TypeScript e Tailwind CSS |
 | Backend | Python, FastAPI e SQLAlchemy |
 | Banco de dados | PostgreSQL |
-| Segurança | Autenticação JWT |
+| Autenticação | JWT |
 
-**Principais recursos:**
-- Autenticação de usuários.
-- Gestão de clientes.
-- Pipeline de vendas com Kanban.
-- Dashboard de indicadores comerciais.
-- Exportação de relatórios CSV.
+**Funcionalidades:** gestão de clientes, pipeline Kanban, dashboard comercial, autenticação e exportação CSV.
+
+[![Frontend](https://img.shields.io/badge/Frontend-Visualizar-38BDF8?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Rhuan06/flow-crm-frontend)
+[![Backend](https://img.shields.io/badge/Backend-Visualizar-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Rhuan06/flow-crm-backend)
+
+### 📦 Outros projetos
+
+- [Gestão de Produtos com Python e Tkinter](https://github.com/Rhuan06/gestao-produtos-tkinter)
+- [Sistema de Cafeteria](https://github.com/Rhuan06/sistema-cafeteria)
 
 ## 📊 Estatísticas do GitHub
 
@@ -99,27 +97,19 @@ Aplicação Full Stack desenvolvida com arquitetura separada entre frontend e ba
 
 </div>
 
-## 🎓 Formação
+## 🎓 Formação e experiência
 
-🎓 **Análise e Desenvolvimento de Sistemas**
-
-Em andamento.
-
-## 💼 Outras experiências
-
-- Suporte técnico e Help Desk.
-- Manutenção preventiva e corretiva de computadores.
-- Instalação e configuração de sistemas operacionais.
-- Suporte a usuários e infraestrutura de TI.
+- 🎓 **Análise e Desenvolvimento de Sistemas** — em andamento.
+- 💻 **Suporte Técnico / Help Desk** — experiência com atendimento a usuários, manutenção de equipamentos e infraestrutura de TI.
 
 ---
 
 <div align="center">
 
-### 💡 Sempre aprendendo. Sempre construindo.
+### `BUILDING • LEARNING • EVOLVING`
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rhuan06&color=38BDF8&style=flat-square&label=VISUALIZAÇÕES)
 
 **Obrigado pela visita!** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rhuan06&color=38BDF8&style=flat-square&label=Visualizações+do+perfil)
 
 </div>
