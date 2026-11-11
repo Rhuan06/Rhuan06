@@ -85,66 +85,64 @@ Meu objetivo é continuar evoluindo como desenvolvedor, explorando novas tecnolo
 
 ## `04 // FEATURED PROJECTS`
 
-<div align="center">
-
 ### 🔷 FLOWCRM — CUSTOMER & SALES MANAGEMENT
 
-<a href="https://github.com/Rhuan06/flow-crm-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan06&repo=flow-crm-frontend&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Rhuan06/flow-crm-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan06&repo=flow-crm-backend&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL%20STACK-PROJECT-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-00C896?style=for-the-badge" />
+</p>
 
-</div>
+Sistema Full Stack desenvolvido para gerenciamento de clientes e oportunidades comerciais, utilizando arquitetura separada entre frontend e backend.
 
-**FlowCRM** é um projeto Full Stack desenvolvido para gerenciamento de clientes e oportunidades comerciais, utilizando arquitetura com frontend e backend separados.
+**Architecture & Technologies**
 
-| Camada | Tecnologias |
-|---|---|
-| Frontend | Next.js, React, TypeScript e Tailwind CSS |
-| Backend | Python, FastAPI e SQLAlchemy |
+| Layer | Technologies |
+|:---|:---|
+| Frontend | Next.js, React, TypeScript, Tailwind CSS |
+| Backend | Python, FastAPI, SQLAlchemy |
 | Database | PostgreSQL |
-| Segurança | Autenticação JWT |
+| Security | JWT Authentication |
 
-**Principais funcionalidades:**
+**Main Features**
 
-- Autenticação de usuários.
+- Autenticação de usuários com JWT.
 - Gerenciamento de clientes.
-- Pipeline comercial com Kanban.
-- Dashboard com indicadores.
+- Pipeline de vendas com Kanban.
+- Dashboard com indicadores comerciais.
 - Gerenciamento de oportunidades.
 - Exportação de dados em CSV.
 
-### OUTROS PROJETOS
+**Repositories**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/Rhuan06/flow-crm-frontend">
+    <img src="https://img.shields.io/badge/FRONTEND-Next.js-38BDF8?style=for-the-badge&logo=next.js&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rhuan06/flow-crm-backend">
+    <img src="https://img.shields.io/badge/BACKEND-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>
+</p>
 
-**📦 Gestão de Produtos**
+---
 
-Sistema de gerenciamento de produtos desenvolvido com Python e Tkinter.
+### 📦 GESTÃO DE PRODUTOS
+
+Aplicação de gerenciamento de produtos desenvolvida com Python e Tkinter.
 
 <a href="https://github.com/Rhuan06/gestao-produtos-tkinter">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
-<td width="50%" valign="top">
+---
 
-**☕ Sistema de Cafeteria**
+### ☕ SISTEMA DE CAFETERIA
 
 Projeto de sistema para gerenciamento de uma cafeteria.
 
 <a href="https://github.com/Rhuan06/sistema-cafeteria">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## `05 // CURRENT OBJECTIVES`
