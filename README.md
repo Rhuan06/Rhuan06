@@ -23,7 +23,9 @@
 name: Rhuan Silva
 role: Desenvolvedor Full Stack em formação
 education: Análise e Desenvolvimento de Sistemas
-professional_area: Suporte Técnico / Help Desk
+professional_area:
+      - Desenvolvimento de Software
+      - Suporte Técnico / Help Desk
 location: Brasil
 
 interests:
