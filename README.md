@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <!-- SYSTEM BOOT BANNER -->
 
@@ -22,6 +23,7 @@
 name: Rhuan Silva
 role: Desenvolvedor Full Stack em formação
 education: Análise e Desenvolvimento de Sistemas
+professional_area: Suporte Técnico / Help Desk
 location: Brasil
 
 interests:
@@ -29,16 +31,17 @@ interests:
   - Backend e APIs REST
   - Frontend e Experiência do Usuário
   - Banco de Dados
+  - Arquitetura de Software
   - Infraestrutura e Tecnologia
 ```
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em construir aplicações modernas, funcionais e bem estruturadas.
 
-Tenho experiência prática com desenvolvimento de aplicações Full Stack, criação de APIs RESTful, integração com bancos de dados e desenvolvimento de interfaces web.
+Tenho experiência prática no desenvolvimento de aplicações Full Stack, criação de APIs RESTful, integração com bancos de dados e desenvolvimento de interfaces web.
 
-Também atuo na área de **Suporte Técnico e Help Desk**, experiência que fortalece minha visão sobre infraestrutura, resolução de problemas e necessidades reais dos usuários.
+Também atuo na área de **Suporte Técnico e Help Desk**, trabalhando com atendimento aos usuários, manutenção de equipamentos, sistemas operacionais e resolução de problemas técnicos.
 
-Meu objetivo é continuar evoluindo como desenvolvedor, explorando novas tecnologias e transformando ideias em soluções.
+Meu objetivo é continuar evoluindo como desenvolvedor, aprimorando minhas habilidades e transformando ideias em soluções.
 
 ---
 
@@ -92,7 +95,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor, explorando novas tecnolo
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-00C896?style=for-the-badge" />
 </p>
 
-Sistema Full Stack desenvolvido para gerenciamento de clientes e oportunidades comerciais, utilizando arquitetura separada entre frontend e backend.
+Sistema Full Stack desenvolvido para gerenciamento de clientes, leads e oportunidades comerciais, utilizando arquitetura separada entre frontend e backend.
 
 **Architecture & Technologies**
 
@@ -101,16 +104,27 @@ Sistema Full Stack desenvolvido para gerenciamento de clientes e oportunidades c
 | Frontend | Next.js, React, TypeScript, Tailwind CSS |
 | Backend | Python, FastAPI, SQLAlchemy |
 | Database | PostgreSQL |
-| Security | JWT Authentication |
+| Security | JWT, Argon2, Rate Limiting |
 
 **Main Features**
 
-- Autenticação de usuários com JWT.
-- Gerenciamento de clientes.
+- Cadastro público e autenticação de usuários.
+- Recuperação e redefinição de senha.
+- Autenticação baseada em tokens JWT.
+- Gerenciamento de clientes e leads.
 - Pipeline de vendas com Kanban.
 - Dashboard com indicadores comerciais.
 - Gerenciamento de oportunidades.
 - Exportação de dados em CSV.
+
+**Security & Architecture**
+
+- Isolamento de dados por usuário.
+- Hash seguro de senhas com Argon2.
+- Controle de permissões e papéis de usuário.
+- Rate Limiting nos endpoints de autenticação.
+- Tokens temporários para redefinição de senha.
+- Validação de dados com Pydantic.
 
 **Repositories**
 
@@ -144,6 +158,8 @@ Projeto de sistema para gerenciamento de uma cafeteria.
   <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+---
+
 ## `05 // CURRENT OBJECTIVES`
 
 ```bash
@@ -152,11 +168,12 @@ Projeto de sistema para gerenciamento de uma cafeteria.
 ├── [✓] Desenvolver aplicações Full Stack
 ├── [✓] Construir APIs REST com FastAPI
 ├── [✓] Trabalhar com bancos de dados relacionais
+├── [✓] Desenvolver aplicações com Next.js e TypeScript
 ├── [→] Aprofundar conhecimentos em arquitetura de software
 ├── [→] Evoluir em boas práticas e qualidade de código
-└── [→] Desenvolver projetos cada vez mais robustos
-
-SYSTEM: CONTINUOUS_LEARNING = TRUE
+└── [→] Aprimorar conhecimentos em infraestrutura e desenvolvimento
+│
+└── SYSTEM: CONTINUOUS_LEARNING = TRUE
 ```
 
 ---
@@ -206,47 +223,7 @@ SYSTEM: CONTINUOUS_LEARNING = TRUE
 
 ---
 
-## `08 // FEATURED REPOSITORIES`
-
-<div align="center">
-
-### 🔷 FLOWCRM
-
-**Sistema Full Stack de gestão de clientes e oportunidades comerciais.**
-
-<a href="https://github.com/Rhuan06/flow-crm-frontend">
-  <img src="https://img.shields.io/badge/FRONTEND-Next.js-38BDF8?style=for-the-badge&logo=next.js&logoColor=white" />
-</a>
-
-<a href="https://github.com/Rhuan06/flow-crm-backend">
-  <img src="https://img.shields.io/badge/BACKEND-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</a>
-
----
-
-### 📦 GESTÃO DE PRODUTOS
-
-Aplicação de gerenciamento de produtos com Python e Tkinter.
-
-<a href="https://github.com/Rhuan06/gestao-produtos-tkinter">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-### ☕ SISTEMA DE CAFETERIA
-
-Projeto de sistema para gerenciamento de uma cafeteria.
-
-<a href="https://github.com/Rhuan06/sistema-cafeteria">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## `09 // SNAKE CONTRIBUTION ANIMATION`
+## `08 // SNAKE CONTRIBUTION ANIMATION`
 
 <div align="center">
 
@@ -256,7 +233,7 @@ Projeto de sistema para gerenciamento de uma cafeteria.
 
 ---
 
-## `10 // CONNECT WITH ME`
+## `09 // CONNECT WITH ME`
 
 <div align="center">
 
