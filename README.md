@@ -3,7 +3,7 @@
 
 <!-- SYSTEM BOOT BANNER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090f,50:101b35,100:30145c&text=RHUAN%20SILVA&fontColor=38BDF8&fontSize=55&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=60&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090f,50:101b35,100:30145c&text=RHUAN%20OLIVEIRA&fontColor=38BDF8&fontSize=55&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=60&descSize=15&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+DEVELOPER+PROFILE...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+WELCOME+TO+MY+GITHUB+UNIVERSE." alt="System initialization animation" />
 
@@ -20,7 +20,7 @@
 ## `01 // SOBRE MIM`
 
 ```yaml
-name: Rhuan Silva
+name: Rhuan Oliveira
 role: Desenvolvedor Full Stack em formação
 education: Análise e Desenvolvimento de Sistemas
 professional_area:
