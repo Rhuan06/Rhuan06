@@ -257,6 +257,6 @@ Projeto de sistema para gerenciamento de uma cafeteria.
 
 <img src="https://komarev.com/ghpvc/?username=Rhuan06&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 
-<sub>© Rhuan Silva — 2026 | Designed with code and curiosity.</sub>
+<sub>© Rhuan Oliveira — 2026 | Designed with code and curiosity.</sub>
 
 </div>
